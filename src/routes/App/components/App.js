@@ -41,7 +41,7 @@ function App() {
             chocolate cake. Cupcake tart jujubes dragée jelly-o icing sugar
             plum. Chocolate bar lollipop candy canes. Biscuit croissant apple
             pie pudding caramels wafer tart tootsie roll macaroon. Croissant
-            tiramisu chocolate bar carrot cake lemon drops halvah.
+            tiramisu chocolate bar carrot cake lemon drops.
           </p>
         </div>
         <div className="column">
